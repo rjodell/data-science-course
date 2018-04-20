@@ -1,6 +1,27 @@
 # this is my bio.txt file
 
 
+# Name: Ryan O'Dell
+
+# Email : rjodell@ucsc.edu
+
+# Major : Pure Mathematics
+
+# Year : Undergraduate Senior
+
+# Research Interests : Bayesian Hierarchical Modeling , Bayesian Statistis , Programming 
+
+
+# Mathematics Department Advisor ( i dont know there name )
+
+
+# I have solid experience with coding in R ( AMS 206 ) and matlab ( ams 147 , ams 214 , currently enrolled in ams 213B ) , minor experience with python , no experience with compiled languages , only scripted
+
+
+
+# I have no experience with linux / unix besides accessing unix time share for an intro to python course I took 
+
+
 
 
 
